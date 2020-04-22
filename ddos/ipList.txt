@@ -1,0 +1,4 @@
+http://www.bmscephaseshift.com/2018/blog_index.php, 107.180.95.144
+youtube.com, 172.217.12.174
+localhost, 127.0.0.1
+https://www.kmfnandini.coop/, 65.99.240.118
